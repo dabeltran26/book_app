@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.4/
+firebase_auth_web=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.5/
+firebase_core=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.10.6/
+firebase_core_web=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.5.3/
+google_sign_in=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.1/
+google_sign_in_web=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+3/
+path_provider=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.8/
+path_provider_android=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.11/
+path_provider_ios=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.7/
+path_provider_linux=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.4/
+path_provider_macos=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.4/
+path_provider_windows=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.4/
+sqflite=/Users/a123/dev/flutter-2.8.0/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.1/

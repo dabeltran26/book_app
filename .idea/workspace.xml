@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad97e3b4-0155-423f-ab50-f6fd83bd63d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/book_app/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/book_app" />
+  </component>
+  <component name="ProjectId" id="22iJUqGFfpXCVG9zASPDdphxmBp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/lib/home" />
+      <recent name="$PROJECT_DIR$/lib/authentication" />
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/profile/bloc" />
+      <recent name="$PROJECT_DIR$/lib/home/widgets" />
+      <recent name="$PROJECT_DIR$/lib/models" />
+      <recent name="$PROJECT_DIR$/lib/register/widgets" />
+      <recent name="$PROJECT_DIR$/lib/register" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="returns a Post if the http call completes successfully" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="returns a Post if the http call completes successfully" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="returns a Post" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="returns a Post" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="returns a favorites books" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="returns a favorites books" />
+      <option name="testFile" value="$PROJECT_DIR$/test/favorite_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in widget_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="throws an exception" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="throws an exception" />
+      <option name="testFile" value="$PROJECT_DIR$/test/widget_test.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.returns a favorites books" />
+        <item itemvalue="Flutter Test.throws an exception" />
+        <item itemvalue="Flutter Test.returns a Post" />
+        <item itemvalue="Flutter Test.returns a Post if the http call completes successfully" />
+        <item itemvalue="Flutter Test.tests in widget_test.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad97e3b4-0155-423f-ab50-f6fd83bd63d9" name="Default Changelist" comment="" />
+      <created>1640314499084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640314499084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/book-app" />
+      <path value="$PROJECT_DIR$/book_app" />
+    </ignored-roots>
+  </component>
+</project>
